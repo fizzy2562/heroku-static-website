@@ -10,7 +10,7 @@ Clone the repo, put an index.html in */public* and files in given /public subfol
 Note that no apache indexes-like feature is available (That's safer!).
 
 #### Customization
-If you want/need to use different folders than the given ones in */public*, edit *config.ru*.
+If you want/need to use different folders in */public*, edit *config.ru*.
 
 #### Any demo?
 Sure! [This page](http://static-demo-1.herokuapp.com/) and its companion stuff are running on heroku.
