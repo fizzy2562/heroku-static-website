@@ -2,7 +2,7 @@
 A boilerplate to deploy a static website on heroku.
 
 #### Useful for what?
-Heroku offers up to 100 free tiers (dynos in heroku lang). This way you can use them for hosting you're personal website, landing pages for your projects, the cat gallery, etc.
+Heroku offers up to 100 free tiers (dynos in heroku lang) to run web apps. With this repo you can use one of them to host a static website. It could be your personal website, landing pages for your projects, mom's cat gallery, etc.
 
 #### Usage
 Clone the repo, put an index.html in */public* and files in given /public subfolders, as you would do on any hosting service. Than deploy. Yay!
